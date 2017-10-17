@@ -29,11 +29,11 @@ This mod is licensed under the [CC BY-NC-SA 3.0](https://creativecommons.org/lic
 
 ## Resources
 * Source code
-  + [GitHub]()
+  + [GitHub](http://github.com/mwerle/kdex)
 * Forum threads
-  + [Micha's Release Thread](https://forum.kerbalspaceprogram.com/index.php?showtopic=166619)
-  + [masTerTorch's original Thread](https://forum.kerbalspaceprogram.com/index.php?showtopic=50039)
+  + [Micha's Release Thread](http://forum.kerbalspaceprogram.com/index.php?showtopic=166619)
+  + [masTerTorch's original Thread](http://forum.kerbalspaceprogram.com/index.php?showtopic=50039)
 * Download Links
-  + [GitHub]()
+  + [GitHub](http://github.com/mwerle/kdex/releases)
   + [SpaceDock]()
   + [CurseForge]()
