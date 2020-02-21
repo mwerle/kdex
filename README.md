@@ -26,8 +26,8 @@ Lots of results for the new experiment.
 4. KDEX is part of the "Space Exploration" tech node.
 
 ## License
-This mod is licensed under the [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) license; effectively it means it's free to use and modify for non-commercial usage as long as the original author(s) are attributed.
-
+This mod is licensed under the [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) license; effectively it means it's free to use and modify for non-commercial usage as long as the original author(s) are attributed.  
+![CC BY-NC-SA 3.0](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)  
 ## Resources
 * Source code
   + [GitHub](http://github.com/mwerle/kdex)
