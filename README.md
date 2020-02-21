@@ -38,3 +38,5 @@ This mod is licensed under the [CC BY-NC-SA 3.0](https://creativecommons.org/lic
   + [GitHub](http://github.com/mwerle/kdex/releases)
   + [SpaceDock](http://spacedock.info/mod/1551)
   + [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/kdex-continued)
+  
+<!-- zed'K was here. ;p -->
