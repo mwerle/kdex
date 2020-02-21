@@ -35,7 +35,7 @@ This mod is licensed under the [CC BY-NC-SA 3.0](https://creativecommons.org/lic
   + [Micha's Release Thread](http://forum.kerbalspaceprogram.com/index.php?showtopic=166619)
   + [masTerTorch's original Thread](http://forum.kerbalspaceprogram.com/index.php?showtopic=50039)
 * Download Links
-  + [GitHub](http://github.com/mwerle/kdex/releases)
+  + [GitHub](http://github.com/mwerle/kdex/releases/latest)
   + [SpaceDock](http://spacedock.info/mod/1551)
   + [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/kdex-continued)
   
