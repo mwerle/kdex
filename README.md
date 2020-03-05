@@ -1,7 +1,10 @@
 # KDEX Continued
-Kerbal Dust Experiment by **masTerTorch** for [Kerbal Space Program](http://kerbalspaceprogram.com)  
+
+*Kerbal Dust Experiment* by **masTerTorch** for [Kerbal Space Program](http://kerbalspaceprogram.com)  
 ![KDex](https://img.shields.io/github/v/release/mwerle/kdex?include_prereleases) ![KSP](https://img.shields.io/badge/KSP%20version-1.9.x-66ccff.svg?style=flat-square) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![Source](https://img.shields.io/badge/source%20code-github-yellowgreen) ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey)
-***  
+
+***
+
 ## About
 The Kerbal Dust Experiment by masTerTorch is a replica of LADEEs LDEX instrument. It comes with an animated model and tons of results.
 
@@ -38,5 +41,3 @@ This mod is licensed under the [CC BY-NC-SA 3.0](https://creativecommons.org/lic
   + [GitHub](http://github.com/mwerle/kdex/releases/latest)
   + [SpaceDock](http://spacedock.info/mod/1551)
   + [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/kdex-continued)
-  
-<!-- zed'K was here. ;p -->
