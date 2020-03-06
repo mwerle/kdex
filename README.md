@@ -13,21 +13,28 @@
 ***
 
 ## About
-The Kerbal Dust Experiment by masTerTorch is a replica of LADEEs LDEX instrument. It comes with an animated model and tons of results.
+The *Kerbal Dust Experiment* by masTerTorch is a replica of [LADEE]s [LDEX] instrument. It comes with an animated model and many individualised science results.
 
-Inspired by the NASA mission LADEE. The objective of LADEE was to investigate the mysteries of the lunar atmosphere and the question of levitated lunar dust. It carried a scientific instrument called the Lunar Dust Experiment (LDEX). This instrument was an impact ionization dust detector. In this way it was possible to measure the density of dust particles.
+Inspired by the [NASA] mission [LADEE]. The objective of [LADEE] was to investigate the mysteries of the lunar atmosphere and the question of levitated lunar dust. It carried a scientific instrument called the Lunar Dust Experiment ([LDEX]). This instrument was an impact ionization dust detector. In this way it was possible to measure the density of dust particles.
 
 Kerbals are known for impacts and collisions and since 0.22 they do science. KDEX combines impacts and science.
 
-This part is giving you the opportunity to do more science.
+This part is giving you the opportunity to do science the Kerbal way!
 
-Doing science the Kerbal way!
+[NASA]: http://nasa.gov
+[LADEE]: https://www.nasa.gov/mission_pages/ladee/main/index.html
+[LDEX]: https://www.nasa.gov/mission_pages/ladee/science/index.html
 
 ### Content
 
-One new model. (KDEX - Can be unlocked in the tech tree. Node: Space Exploration)
+ - One new science experiment model. (KDEX - Can be unlocked in the tech tree. Node: Space Exploration)
+ - Individualised science results strings for many different situations.
+ 
+### Translations
+From v2.0 onwards, KDEX supports localisation.  So far, the following languages are supported:
 
-Lots of results for the new experiment. 
+ - english (US)
+ - german
 
 ## Installation Instructions
 1. Unzip
