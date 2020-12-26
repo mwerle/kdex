@@ -5,7 +5,7 @@
 [![ReleaseShield]][release] [![KSPShield]][KSP] [![CKANShield]][CKAN] [![SourceShield]][GitHub] [![LicenseShield]][License]
 
 [ReleaseShield]: https://img.shields.io/github/v/release/mwerle/kdex?include_prereleases
-[KSPShield]: https://img.shields.io/badge/KSP%20version-1.9.x-66ccff.svg?style=flat-square
+[KSPShield]: https://img.shields.io/badge/KSP%20version-1.11.x-66ccff.svg?style=flat-square
 [CKANShield]: https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg
 [SourceShield]: https://img.shields.io/badge/source%20code-github-yellowgreen
 [LicenseShield]: https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey
