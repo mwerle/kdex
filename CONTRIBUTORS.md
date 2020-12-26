@@ -7,6 +7,7 @@ The following people contributed to this mod:
 
  - **masTerTorch**
    - original author
+ - Fitiales - spanish translation.
  - Micha
    - current maintainer
  - zer0Kerbal
