@@ -35,6 +35,7 @@ From v2.0 onwards, KDEX supports localisation.  So far, the following languages 
 
  - english (US)
  - german
+ - spanish
 
 ## Installation Instructions
 1. Unzip
